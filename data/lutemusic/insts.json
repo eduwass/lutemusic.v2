@@ -1,0 +1,650 @@
+[
+    {
+        "Max": "0",
+        "Min": "0",
+        "Inst": "4-part vocal",
+        "Type": "vocal"
+    },
+    {
+        "Max": "0",
+        "Min": "0",
+        "Inst": "soprano",
+        "Type": "vocal"
+    },
+    {
+        "Max": "0",
+        "Min": "0",
+        "Inst": "mezzo",
+        "Type": "vocal"
+    },
+    {
+        "Max": "0",
+        "Min": "0",
+        "Inst": "contralto",
+        "Type": "vocal"
+    },
+    {
+        "Max": "0",
+        "Min": "0",
+        "Inst": "alto",
+        "Type": "vocal"
+    },
+    {
+        "Max": "0",
+        "Min": "0",
+        "Inst": "tenor",
+        "Type": "vocal"
+    },
+    {
+        "Max": "0",
+        "Min": "0",
+        "Inst": "baritone",
+        "Type": "vocal"
+    },
+    {
+        "Max": "0",
+        "Min": "0",
+        "Inst": "bass",
+        "Type": "vocal"
+    },
+    {
+        "Max": "0",
+        "Min": "0",
+        "Inst": "voice",
+        "Type": "vocal"
+    },
+    {
+        "Max": "0",
+        "Min": "0",
+        "Inst": "vocal",
+        "Type": "vocal"
+    },
+    {
+        "Max": "4",
+        "Min": "4",
+        "Inst": "4-course",
+        "Type": "g lute"
+    },
+    {
+        "Max": "5",
+        "Min": "4",
+        "Inst": "5-course",
+        "Type": "g lute"
+    },
+    {
+        "Max": "6",
+        "Min": "4",
+        "Inst": "6-course",
+        "Type": "g lute"
+    },
+    {
+        "Max": "7",
+        "Min": "4",
+        "Inst": "7-course",
+        "Type": "g lute"
+    },
+    {
+        "Max": "8",
+        "Min": "4",
+        "Inst": "8-course",
+        "Type": "g lute"
+    },
+    {
+        "Max": "9",
+        "Min": "4",
+        "Inst": "9-course",
+        "Type": "g lute"
+    },
+    {
+        "Max": "10",
+        "Min": "4",
+        "Inst": "10-course",
+        "Type": "g lute"
+    },
+    {
+        "Max": "11",
+        "Min": "4",
+        "Inst": "11-course",
+        "Type": "g lute"
+    },
+    {
+        "Max": "12",
+        "Min": "4",
+        "Inst": "12-course",
+        "Type": "g lute"
+    },
+    {
+        "Max": "13",
+        "Min": "4",
+        "Inst": "13-course",
+        "Type": "g lute"
+    },
+    {
+        "Max": "14",
+        "Min": "4",
+        "Inst": "archlute",
+        "Type": "g lute"
+    },
+    {
+        "Max": "6",
+        "Min": "6",
+        "Inst": "6-course a lute",
+        "Type": "a lute"
+    },
+    {
+        "Max": "7",
+        "Min": "6",
+        "Inst": "7-course a lute",
+        "Type": "a lute"
+    },
+    {
+        "Max": "8",
+        "Min": "6",
+        "Inst": "8-course a lute",
+        "Type": "a lute"
+    },
+    {
+        "Max": "10",
+        "Min": "6",
+        "Inst": "9-course a lute",
+        "Type": "a lute"
+    },
+    {
+        "Max": "10",
+        "Min": "6",
+        "Inst": "10-course a lute",
+        "Type": "a lute"
+    },
+    {
+        "Max": "6",
+        "Min": "6",
+        "Inst": "6-course d bass lute",
+        "Type": "d bass lute"
+    },
+    {
+        "Max": "7",
+        "Min": "6",
+        "Inst": "7-course d bass lute",
+        "Type": "d bass lute"
+    },
+    {
+        "Max": "8",
+        "Min": "6",
+        "Inst": "8-course d bass lute",
+        "Type": "d bass lute"
+    },
+    {
+        "Max": "9",
+        "Min": "6",
+        "Inst": "9-course d bass lute",
+        "Type": "d bass lute"
+    },
+    {
+        "Max": "10",
+        "Min": "6",
+        "Inst": "10-course d bass lute",
+        "Type": "d bass lute"
+    },
+    {
+        "Max": "6",
+        "Min": "6",
+        "Inst": "6-course f lute",
+        "Type": "f lute"
+    },
+    {
+        "Max": "7",
+        "Min": "6",
+        "Inst": "7-course f lute",
+        "Type": "f lute"
+    },
+    {
+        "Max": "8",
+        "Min": "6",
+        "Inst": "8-course f lute",
+        "Type": "f lute"
+    },
+    {
+        "Max": "8",
+        "Min": "6",
+        "Inst": "9-course f lute",
+        "Type": "f lute"
+    },
+    {
+        "Max": "8",
+        "Min": "6",
+        "Inst": "10-course f lute",
+        "Type": "f lute"
+    },
+    {
+        "Max": "9",
+        "Min": "9",
+        "Inst": "9-course baroque",
+        "Type": "baroque lute"
+    },
+    {
+        "Max": "10",
+        "Min": "9",
+        "Inst": "10-course baroque",
+        "Type": "baroque lute"
+    },
+    {
+        "Max": "11",
+        "Min": "9",
+        "Inst": "11-course baroque",
+        "Type": "baroque lute"
+    },
+    {
+        "Max": "12",
+        "Min": "9",
+        "Inst": "12-course baroque",
+        "Type": "baroque lute"
+    },
+    {
+        "Max": "13",
+        "Min": "9",
+        "Inst": "13-course baroque",
+        "Type": "baroque lute"
+    },
+    {
+        "Max": "14",
+        "Min": "9",
+        "Inst": "14-course baroque",
+        "Type": "baroque lute"
+    },
+    {
+        "Max": "6",
+        "Min": "6",
+        "Inst": "6-course bandora",
+        "Type": "bandora"
+    },
+    {
+        "Max": "7",
+        "Min": "6",
+        "Inst": "7-course bandora",
+        "Type": "bandora"
+    },
+    {
+        "Max": "10",
+        "Min": "10",
+        "Inst": "10-course theorbo",
+        "Type": "theorbo"
+    },
+    {
+        "Max": "11",
+        "Min": "10",
+        "Inst": "11-course theorbo",
+        "Type": "theorbo"
+    },
+    {
+        "Max": "12",
+        "Min": "10",
+        "Inst": "12-course theorbo",
+        "Type": "theorbo"
+    },
+    {
+        "Max": "13",
+        "Min": "10",
+        "Inst": "13-course theorbo",
+        "Type": "theorbo"
+    },
+    {
+        "Max": "14",
+        "Min": "10",
+        "Inst": "14-course theorbo",
+        "Type": "theorbo"
+    },
+    {
+        "Max": "5",
+        "Min": "5",
+        "Inst": "5-course vihuela",
+        "Type": "vihuela"
+    },
+    {
+        "Max": "6",
+        "Min": "5",
+        "Inst": "6-course vihuela",
+        "Type": "vihuela"
+    },
+    {
+        "Max": "6",
+        "Min": "6",
+        "Inst": "6-course orpharion",
+        "Type": "orpharion"
+    },
+    {
+        "Max": "7",
+        "Min": "6",
+        "Inst": "7-course orpharion",
+        "Type": "orpharion"
+    },
+    {
+        "Max": "8",
+        "Min": "6",
+        "Inst": "8-course orpharion",
+        "Type": "orpharion"
+    },
+    {
+        "Max": "6",
+        "Min": "6",
+        "Inst": "6-course d descant lute",
+        "Type": "d descant lute"
+    },
+    {
+        "Max": "7",
+        "Min": "6",
+        "Inst": "7-course d descant lute",
+        "Type": "d descant lute"
+    },
+    {
+        "Max": "8",
+        "Min": "6",
+        "Inst": "8-course d descant lute",
+        "Type": "d descant lute"
+    },
+    {
+        "Max": "9",
+        "Min": "6",
+        "Inst": "9-course d descant lute",
+        "Type": "d descant lute"
+    },
+    {
+        "Max": "10",
+        "Min": "6",
+        "Inst": "10-course d descant lute",
+        "Type": "d descant lute"
+    },
+    {
+        "Max": "6",
+        "Min": "6",
+        "Inst": "treble viol",
+        "Type": "bowed"
+    },
+    {
+        "Max": "6",
+        "Min": "6",
+        "Inst": "alto viol",
+        "Type": "bowed"
+    },
+    {
+        "Max": "6",
+        "Min": "6",
+        "Inst": "tenor viol",
+        "Type": "bowed"
+    },
+    {
+        "Max": "6",
+        "Min": "6",
+        "Inst": "6-course bass viol",
+        "Type": "bowed"
+    },
+    {
+        "Max": "7",
+        "Min": "6",
+        "Inst": "7-course bass viol",
+        "Type": "bowed"
+    },
+    {
+        "Max": "6",
+        "Min": "6",
+        "Inst": "lyra viol",
+        "Type": "bowed"
+    },
+    {
+        "Max": "4",
+        "Min": "4",
+        "Inst": "cello",
+        "Type": "bowed"
+    },
+    {
+        "Max": "4",
+        "Min": "4",
+        "Inst": "double bass",
+        "Type": "bowed"
+    },
+    {
+        "Max": "4",
+        "Min": "4",
+        "Inst": "viola",
+        "Type": "bowed"
+    },
+    {
+        "Max": "4",
+        "Min": "4",
+        "Inst": "violin",
+        "Type": "bowed"
+    },
+    {
+        "Max": "4",
+        "Min": "4",
+        "Inst": "violone",
+        "Type": "bowed"
+    },
+    {
+        "Max": "6",
+        "Min": "6",
+        "Inst": "6-course e lute",
+        "Type": "e lute"
+    },
+    {
+        "Max": "7",
+        "Min": "6",
+        "Inst": "7-course e lute",
+        "Type": "e lute"
+    },
+    {
+        "Max": "6",
+        "Min": "6",
+        "Inst": "6-course b lute",
+        "Type": "b lute"
+    },
+    {
+        "Max": "6",
+        "Min": "6",
+        "Inst": "6-course f# lute",
+        "Type": "f# lute"
+    },
+    {
+        "Max": "6",
+        "Min": "6",
+        "Inst": "6-course c descant lute",
+        "Type": "c descant lute"
+    },
+    {
+        "Max": "7",
+        "Min": "6",
+        "Inst": "7-course c descant lute",
+        "Type": "c descant lute"
+    },
+    {
+        "Max": "8",
+        "Min": "6",
+        "Inst": "8-course c descant lute",
+        "Type": "c descant lute"
+    },
+    {
+        "Max": "6",
+        "Min": "6",
+        "Inst": "6-course c bass lute",
+        "Type": "c bass lute"
+    },
+    {
+        "Max": "7",
+        "Min": "6",
+        "Inst": "7-course c bass lute",
+        "Type": "c bass lute"
+    },
+    {
+        "Max": "8",
+        "Min": "6",
+        "Inst": "8-course c bass lute",
+        "Type": "c bass lute"
+    },
+    {
+        "Max": "6",
+        "Min": "6",
+        "Inst": "6-course g descant",
+        "Type": "g descant lute"
+    },
+    {
+        "Max": "4",
+        "Min": "4",
+        "Inst": "4-course guitar",
+        "Type": "guitar"
+    },
+    {
+        "Max": "5",
+        "Min": "4",
+        "Inst": "5-course guitar",
+        "Type": "guitar"
+    },
+    {
+        "Max": "6",
+        "Min": "4",
+        "Inst": "6-course guitar",
+        "Type": "guitar"
+    },
+    {
+        "Max": "7",
+        "Min": "4",
+        "Inst": "7-course guitar",
+        "Type": "guitar"
+    },
+    {
+        "Max": "8",
+        "Min": "4",
+        "Inst": "8-course guitar",
+        "Type": "guitar"
+    },
+    {
+        "Max": "9",
+        "Min": "4",
+        "Inst": "9-course guitar",
+        "Type": "guitar"
+    },
+    {
+        "Max": "10",
+        "Min": "4",
+        "Inst": "10-course guitar",
+        "Type": "guitar"
+    },
+    {
+        "Max": "0",
+        "Min": "0",
+        "Inst": "baroque guitar",
+        "Type": "other"
+    },
+    {
+        "Max": "0",
+        "Min": "0",
+        "Inst": "cittern",
+        "Type": "other"
+    },
+    {
+        "Max": "0",
+        "Min": "0",
+        "Inst": "mandora",
+        "Type": "other"
+    },
+    {
+        "Max": "0",
+        "Min": "0",
+        "Inst": "gittern",
+        "Type": "other"
+    },
+    {
+        "Max": "0",
+        "Min": "0",
+        "Inst": "mandolin",
+        "Type": "other"
+    },
+    {
+        "Max": "0",
+        "Min": "0",
+        "Inst": "harp",
+        "Type": "other"
+    },
+    {
+        "Max": "0",
+        "Min": "0",
+        "Inst": "harpsichord",
+        "Type": "other"
+    },
+    {
+        "Max": "0",
+        "Min": "0",
+        "Inst": "kettle drums",
+        "Type": "other"
+    },
+    {
+        "Max": "0",
+        "Min": "0",
+        "Inst": "psaltery",
+        "Type": "other"
+    },
+    {
+        "Max": "0",
+        "Min": "0",
+        "Inst": "flute",
+        "Type": "wind"
+    },
+    {
+        "Max": "0",
+        "Min": "0",
+        "Inst": "soprano recorder",
+        "Type": "wind"
+    },
+    {
+        "Max": "0",
+        "Min": "0",
+        "Inst": "alto recorder",
+        "Type": "wind"
+    },
+    {
+        "Max": "0",
+        "Min": "0",
+        "Inst": "tenor recorder",
+        "Type": "wind"
+    },
+    {
+        "Max": "0",
+        "Min": "0",
+        "Inst": "bass recorder",
+        "Type": "wind"
+    },
+    {
+        "Max": "0",
+        "Min": "0",
+        "Inst": "oboe",
+        "Type": "wind"
+    },
+    {
+        "Max": "0",
+        "Min": "0",
+        "Inst": "krumhorn",
+        "Type": "wind"
+    },
+    {
+        "Max": "0",
+        "Min": "0",
+        "Inst": "trumpet",
+        "Type": "wind"
+    },
+    {
+        "Max": "0",
+        "Min": "0",
+        "Inst": "continuo",
+        "Type": "other"
+    },
+    {
+        "Max": "0",
+        "Min": "0",
+        "Inst": "score",
+        "Type": "other"
+    },
+    {
+        "Max": "0",
+        "Min": "0",
+        "Inst": "???",
+        "Type": "other"
+    }
+]

@@ -1,0 +1,1838 @@
+[
+	{
+	"type": "modern",
+	"parent":null
+	},
+	{
+	"type": "modern classical",
+	"parent": "modern"
+	},
+	{
+	"type": "modern lute",
+	"parent": "modern"
+	},
+	{
+	"type": "modern popular",
+	"parent": "modern"
+	},
+	{
+	"type": "ragtime",
+	"parent": "modern popular"
+	},
+	{
+	"type": "show tune",
+	"parent": "modern popular"
+	},
+	{
+	"type": "jazz standard",
+	"parent": "modern popular"
+	},
+	{
+	"type": "country music",
+	"parent": "modern popular"
+	},
+	{
+	"type": "abstract",
+	"parent":null
+	},
+	{
+	"type": "didactic",
+	"parent": "abstract"
+	},
+	{
+	"type": "study",
+	"parent": "didactic"
+	},
+	{
+	"type": "exercise",
+	"parent": "didactic"
+	},
+	{
+	"type": "counterpoint",
+	"parent": "didactic"
+	},
+	{
+	"type": "passaggio",
+	"parent": "didactic"
+	},
+	{
+	"type": "tastar de corde",
+	"parent": "didactic"
+	},
+	{
+	"type": "free form",
+	"parent": "abstract"
+	},
+	{
+	"type": "invention",
+	"parent": "free form"
+	},
+	{
+	"type": "rhapsody",
+	"parent": "free form"
+	},
+	{
+	"type": "ensalada",
+	"parent": "free form"
+	},
+	{
+	"type": "toccata",
+	"parent": "free form"
+	},
+	{
+	"type": "fantasia",
+	"parent": "free form"
+	},
+	{
+	"type": "medley",
+	"parent": "free form"
+	},
+	{
+	"type": "tiento",
+	"parent": "free form"
+	},
+	{
+	"type": "ricercar",
+	"parent": "free form"
+	},
+	{
+	"type": "composition",
+	"parent": "free form"
+	},
+	{
+	"type": "quodlibet",
+	"parent": "free form"
+	},
+	{
+	"type": "unmeasured prelude-free form",
+	"parent": "free form"
+	},
+	{
+	"type": "positional",
+	"parent": "abstract"
+	},
+	{
+	"type": "entrée",
+	"parent": "positional"
+	},
+	{
+	"type": "finale",
+	"parent": "positional"
+	},
+	{
+	"type": "intrada",
+	"parent": "positional"
+	},
+	{
+	"type": "nachlauff-positional",
+	"parent": "positional"
+	},
+	{
+	"type": "prelude",
+	"parent": "positional"
+	},
+	{
+	"type": "praeludium",
+	"parent": "positional"
+	},
+	{
+	"type": "postlude",
+	"parent": "positional"
+	},
+	{
+	"type": "preamble",
+	"parent": "positional"
+	},
+	{
+	"type": "praeambulum",
+	"parent": "positional"
+	},
+	{
+	"type": "ripresa",
+	"parent": "positional"
+	},
+	{
+	"type": "unmeasured prelude",
+	"parent": "positional"
+	},
+	{
+	"type": "fragment",
+	"parent": "abstract"
+	},
+	{
+	"type": "structure",
+	"parent": "abstract"
+	},
+	{
+	"type": "partita",
+	"parent": "structure"
+	},
+	{
+	"type": "concerto",
+	"parent": "structure"
+	},
+	{
+	"type": "chamber music",
+	"parent": "structure"
+	},
+	{
+	"type": "divertimento",
+	"parent": "chamber music"
+	},
+	{
+	"type": "trio sonata",
+	"parent": "chamber music"
+	},
+	{
+	"type": "rotta",
+	"parent": "structure"
+	},
+	{
+	"type": "sinfonia",
+	"parent": "structure"
+	},
+	{
+	"type": "sonata",
+	"parent": "structure"
+	},
+	{
+	"type": "suite",
+	"parent": "structure"
+	},
+	{
+	"type": "symphony",
+	"parent": "structure"
+	},
+	{
+	"type": "vocal intabulation",
+	"parent": "structure"
+	},
+	{
+	"type": "tempo",
+	"parent":null
+	},
+	{
+	"type": "grave",
+	"parent": "tempo"
+	},
+	{
+	"type": "lento",
+	"parent": "tempo"
+	},
+	{
+	"type": "largo",
+	"parent": "tempo"
+	},
+	{
+	"type": "larghetto",
+	"parent": "tempo"
+	},
+	{
+	"type": "adagio",
+	"parent": "tempo"
+	},
+	{
+	"type": "andante",
+	"parent": "tempo"
+	},
+	{
+	"type": "moderato",
+	"parent": "tempo"
+	},
+	{
+	"type": "allegretto",
+	"parent": "tempo"
+	},
+	{
+	"type": "allegro",
+	"parent": "tempo"
+	},
+	{
+	"type": "vivace",
+	"parent": "tempo"
+	},
+	{
+	"type": "presto",
+	"parent": "tempo"
+	},
+	{
+	"type": "prestissimo",
+	"parent": "tempo"
+	},
+	{
+	"type": "style",
+	"parent":null
+	},
+	{
+	"type": "affettuoso",
+	"parent": "style"
+	},
+	{
+	"type": "agitato",
+	"parent": "style"
+	},
+	{
+	"type": "appassionato",
+	"parent": "style"
+	},
+	{
+	"type": "barcarollee",
+	"parent": "style"
+	},
+	{
+	"type": "cantabile",
+	"parent": "style"
+	},
+	{
+	"type": "capriccio",
+	"parent": "style"
+	},
+	{
+	"type": "doloroso",
+	"parent": "style"
+	},
+	{
+	"type": "facile",
+	"parent": "style"
+	},
+	{
+	"type": "feroce",
+	"parent": "style"
+	},
+	{
+	"type": "furioso",
+	"parent": "style"
+	},
+	{
+	"type": "lachrimoso",
+	"parent": "style"
+	},
+	{
+	"type": "leggiero",
+	"parent": "style"
+	},
+	{
+	"type": "maestoso",
+	"parent": "style"
+	},
+	{
+	"type": "ostenato",
+	"parent": "style"
+	},
+	{
+	"type": "staccato",
+	"parent": "style"
+	},
+	{
+	"type": "marcato",
+	"parent": "style"
+	},
+	{
+	"type": "pesante",
+	"parent": "style"
+	},
+	{
+	"type": "siciliana-style",
+	"parent": "style"
+	},
+	{
+	"type": "sostenuto",
+	"parent": "style"
+	},
+	{
+	"type": "scherzando",
+	"parent": "style"
+	},
+	{
+	"type": "tranquillo",
+	"parent": "style"
+	},
+	{
+	"type": "thematic",
+	"parent":null
+	},
+	{
+	"type": "arabesque",
+	"parent": "thematic"
+	},
+	{
+	"type": "ceremonial",
+	"parent": "thematic"
+	},
+	{
+	"type": "processional",
+	"parent": "ceremonial"
+	},
+	{
+	"type": "recessional",
+	"parent": "ceremonial"
+	},
+	{
+	"type": "fanfare",
+	"parent": "ceremonial"
+	},
+	{
+	"type": "aufzug",
+	"parent": "ceremonial"
+	},
+	{
+	"type": "holiday",
+	"parent": "thematic"
+	},
+	{
+	"type": "easter",
+	"parent": "holiday"
+	},
+	{
+	"type": "christmas",
+	"parent": "holiday"
+	},
+	{
+	"type": "new years",
+	"parent": "holiday"
+	},
+	{
+	"type": "lament",
+	"parent": "thematic"
+	},
+	{
+	"type": "endecha",
+	"parent": "lament"
+	},
+	{
+	"type": "funeral",
+	"parent": "lament"
+	},
+	{
+	"type": "down-lament",
+	"parent": "lament"
+	},
+	{
+	"type": "elegy",
+	"parent": "lament"
+	},
+	{
+	"type": "tombeau",
+	"parent": "lament"
+	},
+	{
+	"type": "requiem",
+	"parent": "lament"
+	},
+	{
+	"type": "lullaby",
+	"parent": "thematic"
+	},
+	{
+	"type": "drinking song",
+	"parent": "thematic"
+	},
+	{
+	"type": "hunt",
+	"parent": "thematic"
+	},
+	{
+	"type": "caccia",
+	"parent": "hunt"
+	},
+	{
+	"type": "light",
+	"parent": "thematic"
+	},
+	{
+	"type": "arabesque-light",
+	"parent": "light"
+	},
+	{
+	"type": "arietta-light",
+	"parent": "light"
+	},
+	{
+	"type": "bagatelle",
+	"parent": "light"
+	},
+	{
+	"type": "canzonetta-light",
+	"parent": "light"
+	},
+	{
+	"type": "divertimento-light",
+	"parent": "light"
+	},
+	{
+	"type": "ensalada-light",
+	"parent": "light"
+	},
+	{
+	"type": "medley-light",
+	"parent": "light"
+	},
+	{
+	"type": "quodlibet-light",
+	"parent": "light"
+	},
+	{
+	"type": "thump",
+	"parent": "light"
+	},
+	{
+	"type": "toy",
+	"parent": "light"
+	},
+	{
+	"type": "villanesca-light",
+	"parent": "light"
+	},
+	{
+	"type": "villancico-light",
+	"parent": "light"
+	},
+	{
+	"type": "villanella-light",
+	"parent": "light"
+	},
+	{
+	"type": "nocturne",
+	"parent": "thematic"
+	},
+	{
+	"type": "pastorale",
+	"parent": "thematic"
+	},
+	{
+	"type": "military",
+	"parent": "thematic"
+	},
+	{
+	"type": "battle",
+	"parent": "military"
+	},
+	{
+	"type": "battle galliard",
+	"parent": "battle"
+	},
+	{
+	"type": "barriera-battle",
+	"parent": "battle"
+	},
+	{
+	"type": "march",
+	"parent": "military"
+	},
+	{
+	"type": "theater",
+	"parent": "thematic"
+	},
+	{
+	"type": "masque dance-theater",
+	"parent": "theater"
+	},
+	{
+	"type": "masque tune-theater",
+	"parent": "theater"
+	},
+	{
+	"type": "ballo-theater",
+	"parent": "theater"
+	},
+	{
+	"type": "balletto-theater",
+	"parent": "theater"
+	},
+	{
+	"type": "opera",
+	"parent": "thematic"
+	},
+	{
+	"type": "aria",
+	"parent": "opera"
+	},
+	{
+	"type": "arietta-opera",
+	"parent": "opera"
+	},
+	{
+	"type": "arioso-opera",
+	"parent": "opera"
+	},
+	{
+	"type": "recitative",
+	"parent": "opera"
+	},
+	{
+	"type": "ouverture",
+	"parent": "opera"
+	},
+	{
+	"type": "entr'acte",
+	"parent": "opera"
+	},
+	{
+	"type": "symphony-opera",
+	"parent": "opera"
+	},
+	{
+	"type": "trumpet tune",
+	"parent": "opera"
+	},
+	{
+	"type": "masque",
+	"parent": "thematic"
+	},
+	{
+	"type": "masque tune",
+	"parent": "masque"
+	},
+	{
+	"type": "religious",
+	"parent":null
+	},
+	{
+	"type": "mass",
+	"parent": "religious"
+	},
+	{
+	"type": "gradual",
+	"parent": "mass"
+	},
+	{
+	"type": "agnus dei",
+	"parent": "mass"
+	},
+	{
+	"type": "benedictus",
+	"parent": "mass"
+	},
+	{
+	"type": "christe",
+	"parent": "mass"
+	},
+	{
+	"type": "credo",
+	"parent": "mass"
+	},
+	{
+	"type": "crucifixus est",
+	"parent": "mass"
+	},
+	{
+	"type": "cum sancto spiritu",
+	"parent": "mass"
+	},
+	{
+	"type": "domine deus",
+	"parent": "mass"
+	},
+	{
+	"type": "et incarnatus est",
+	"parent": "mass"
+	},
+	{
+	"type": "et in spiritum sanctum",
+	"parent": "mass"
+	},
+	{
+	"type": "et in terra pax",
+	"parent": "mass"
+	},
+	{
+	"type": "et resurrexit",
+	"parent": "mass"
+	},
+	{
+	"type": "et iterum venturus est",
+	"parent": "mass"
+	},
+	{
+	"type": "gloria",
+	"parent": "mass"
+	},
+	{
+	"type": "hosanna",
+	"parent": "mass"
+	},
+	{
+	"type": "kyrie",
+	"parent": "mass"
+	},
+	{
+	"type": "offertory",
+	"parent": "mass"
+	},
+	{
+	"type": "patrem omnipotem",
+	"parent": "mass"
+	},
+	{
+	"type": "pleni",
+	"parent": "mass"
+	},
+	{
+	"type": "qui tollis",
+	"parent": "mass"
+	},
+	{
+	"type": "sanctus",
+	"parent": "mass"
+	},
+	{
+	"type": "anthem",
+	"parent": "religious"
+	},
+	{
+	"type": "responsory",
+	"parent": "anthem"
+	},
+	{
+	"type": "antiphon",
+	"parent": "religious"
+	},
+	{
+	"type": "chorale-religious",
+	"parent": "religious"
+	},
+	{
+	"type": "conductus",
+	"parent": "religious"
+	},
+	{
+	"type": "fauxbourdon",
+	"parent": "religious"
+	},
+	{
+	"type": "epode",
+	"parent": "religious"
+	},
+	{
+	"type": "glosa-religious",
+	"parent": "religious"
+	},
+	{
+	"type": "liturgical",
+	"parent": "religious"
+	},
+	{
+	"type": "prayer",
+	"parent": "religious"
+	},
+	{
+	"type": "ave maria",
+	"parent": "prayer"
+	},
+	{
+	"type": "plainchant",
+	"parent": "religious"
+	},
+	{
+	"type": "proverb",
+	"parent": "religious"
+	},
+	{
+	"type": "psalm",
+	"parent": "religious"
+	},
+	{
+	"type": "miserere",
+	"parent": "psalm"
+	},
+	{
+	"type": "panis quem ego",
+	"parent": "psalm"
+	},
+	{
+	"type": "hymn",
+	"parent": "religious"
+	},
+	{
+	"type": "sacris solemnis",
+	"parent": " hymn"
+	},
+	{
+	"type": "stabat mater",
+	"parent": "hymn"
+	},
+	{
+	"type": "salve regina",
+	"parent": "hymn"
+	},
+	{
+	"type": "canticle",
+	"parent": "hymn"
+	},
+	{
+	"type": "te deum",
+	"parent": "canticle"
+	},
+	{
+	"type": "magnificat",
+	"parent": "canticle"
+	},
+	{
+	"type": "pattern",
+	"parent":null
+	},
+	{
+	"type": "harmony",
+	"parent": "pattern"
+	},
+	{
+	"type": "romanesca",
+	"parent": "harmony"
+	},
+	{
+	"type": "chaconne",
+	"parent": "harmony"
+	},
+	{
+	"type": "cornemuse",
+	"parent": "harmony"
+	},
+	{
+	"type": "dump",
+	"parent": "harmony"
+	},
+	{
+	"type": "ground bass",
+	"parent": "harmony"
+	},
+	{
+	"type": "tambourin-ground",
+	"parent": "ground bass"
+	},
+	{
+	"type": "bergamasca",
+	"parent": "ground bass"
+	},
+	{
+	"type": "division on a ground-ground",
+	"parent": "ground bass"
+	},
+	{
+	"type": "down",
+	"parent": "ground bass"
+	},
+	{
+	"type": "la folia-harmony",
+	"parent": "harmony"
+	},
+	{
+	"type": "la spagna-harmony",
+	"parent": "harmony"
+	},
+	{
+	"type": "passacaglia-harmony",
+	"parent": "harmony"
+	},
+	{
+	"type": "pavane romanesque-harmony",
+	"parent": "harmony"
+	},
+	{
+	"type": "passamezzo-harmony",
+	"parent": "harmony"
+	},
+	{
+	"type": "rhythm",
+	"parent": "pattern"
+	},
+	{
+	"type": "barcarolle-rhythm",
+	"parent": "rhythm"
+	},
+	{
+	"type": "proportio-rhythm",
+	"parent": "rhythm"
+	},
+	{
+	"type": "triple",
+	"parent": "rhythm"
+	},
+	{
+	"type": "siciliana",
+	"parent": "thythm"
+	},
+	{
+	"type": "cut time",
+	"parent": "rhythm"
+	},
+	{
+	"type": "imitation",
+	"parent": "pattern"
+	},
+	{
+	"type": "carillon",
+	"parent": "imitation"
+	},
+	{
+	"type": "contrafactum",
+	"parent": "imitation"
+	},
+	{
+	"type": "cornemuse-imitation",
+	"parent": "imitation"
+	},
+	{
+	"type": "division",
+	"parent": "imitation"
+	},
+	{
+	"type": "division on a ground",
+	"parent": "division"
+	},
+	{
+	"type": "glosa",
+	"parent": "division"
+	},
+	{
+	"type": "parody",
+	"parent": "imitation"
+	},
+	{
+	"type": "ritornello",
+	"parent": "imitation"
+	},
+	{
+	"type": "variation",
+	"parent": "imitation"
+	},
+	{
+	"type": "popular theme",
+	"parent": "pattern"
+	},
+	{
+	"type": "conductus-theme",
+	"parent": "popular theme"
+	},
+	{
+	"type": "sharp pavane-theme",
+	"parent": "popular theme"
+	},
+	{
+	"type": "cara cossa",
+	"parent": "popular theme"
+	},
+	{
+	"type": "chi passa",
+	"parent": "popular theme"
+	},
+	{
+	"type": "conde claros",
+	"parent": "popular theme"
+	},
+	{
+	"type": "greensleeves",
+	"parent": "popular theme"
+	},
+	{
+	"type": "in nomine",
+	"parent": "popular theme"
+	},
+	{
+	"type": "ut re mi fa sol la",
+	"parent": "popular theme"
+	},
+	{
+	"type": "la folia",
+	"parent": "popular theme"
+	},
+	{
+	"type": "traditora",
+	"parent": "popular theme"
+	},
+	{
+	"type": "la spagna",
+	"parent": "popular theme"
+	},
+	{
+	"type": "rondeau",
+	"parent": "pattern"
+	},
+	{
+	"type": "cadence",
+	"parent": "pattern"
+	},
+	{
+	"type": "clausula",
+	"parent": "pattern"
+	},
+	{
+	"type": "double",
+	"parent": "pattern"
+	},
+	{
+	"type": "fugue",
+	"parent": "pattern"
+	},
+	{
+	"type": "canon",
+	"parent": "pattern"
+	},
+	{
+	"type": "ensemble",
+	"parent":null
+	},
+	{
+	"type": "part",
+	"parent": "ensemble"
+	},
+	{
+	"type": "superiorus",
+	"parent": "part"
+	},
+	{
+	"type": "soprano",
+	"parent": "part"
+	},
+	{
+	"type": "cantus",
+	"parent": "part"
+	},
+	{
+	"type": "tenor",
+	"parent": "part"
+	},
+	{
+	"type": "bass",
+	"parent": "part"
+	},
+	{
+	"type": "ground",
+	"parent": "part"
+	},
+	{
+	"type": "treble",
+	"parent": "part"
+	},
+	{
+	"type": "descant",
+	"parent": "part"
+	},
+	{
+	"type": "continuo",
+	"parent": "part"
+	},
+	{
+	"type": "consort",
+	"parent": "ensemble"
+	},
+	{
+	"type": "chorale",
+	"parent": "ensemble"
+	},
+	{
+	"type": "chorus",
+	"parent": "ensemble"
+	},
+	{
+	"type": "duet",
+	"parent": "ensemble"
+	},
+	{
+	"type": "lute ensemble",
+	"parent": "ensemble"
+	},
+	{
+	"type": "lute duet",
+	"parent": "lute ensemble"
+	},
+	{
+	"type": "lute trio",
+	"parent": "lute ensemble"
+	},
+	{
+	"type": "lute quartet",
+	"parent": "lute ensemble"
+	},
+	{
+	"type": "lute solo",
+	"parent": "ensemble"
+	},
+	{
+	"type": "trio",
+	"parent": "ensemble"
+	},
+	{
+	"type": "quartet",
+	"parent": "ensemble"
+	},
+	{
+	"type": "viol duet",
+	"parent": "ensemble"
+	},
+	{
+	"type": "vocal",
+	"parent":null
+	},
+	{
+	"type": "multipart",
+	"parent": "vocal"
+	},
+	{
+	"type": "4-part vocal",
+	"parent": "multipart"
+	},
+	{
+	"type": "dialogue",
+	"parent": "multipart"
+	},
+	{
+	"type": "cantata",
+	"parent": "multipart"
+	},
+	{
+	"type": "madrigal",
+	"parent": "multipart"
+	},
+	{
+	"type": "motet",
+	"parent": "multipart"
+	},
+	{
+	"type": "round",
+	"parent": "multipart"
+	},
+	{
+	"type": "catch",
+	"parent": "multipart"
+	},
+	{
+	"type": "song",
+	"parent": "vocal"
+	},
+	{
+	"type": "air",
+	"parent": "song"
+	},
+	{
+	"type": "air de cour",
+	"parent": "song"
+	},
+	{
+	"type": "arietta",
+	"parent": "song"
+	},
+	{
+	"type": "arioso",
+	"parent": "song"
+	},
+	{
+	"type": "ballad",
+	"parent": "song"
+	},
+	{
+	"type": "cancion",
+	"parent": "song"
+	},
+	{
+	"type": "cancionero",
+	"parent": "song"
+	},
+	{
+	"type": "canzona",
+	"parent": "song"
+	},
+	{
+	"type": "canzonetta",
+	"parent": "song"
+	},
+	{
+	"type": "carol",
+	"parent": "song"
+	},
+	{
+	"type": "chanson",
+	"parent": "song"
+	},
+	{
+	"type": "estampie-song",
+	"parent": "song"
+	},
+	{
+	"type": "folk song",
+	"parent": "song"
+	},
+	{
+	"type": "frottola",
+	"parent": "song"
+	},
+	{
+	"type": "barzelletta",
+	"parent": "frottola"
+	},
+	{
+	"type": "capitolo",
+	"parent": "frottola"
+	},
+	{
+	"type": "oda",
+	"parent": "frottola"
+	},
+	{
+	"type": "soneto",
+	"parent": "frottola"
+	},
+	{
+	"type": "strambotto",
+	"parent": "frottola"
+	},
+	{
+	"type": "gassenhauer",
+	"parent": "song"
+	},
+	{
+	"type": "lied",
+	"parent": "song"
+	},
+	{
+	"type": "lute song",
+	"parent": "song"
+	},
+	{
+	"type": "napolitana",
+	"parent": "song"
+	},
+	{
+	"type": "ode",
+	"parent": "song"
+	},
+	{
+	"type": "popular song",
+	"parent": "song"
+	},
+	{
+	"type": "country music-song",
+	"parent": "popular song"
+	},
+	{
+	"type": "show tune-song",
+	"parent": "popular song"
+	},
+	{
+	"type": "jazz standard-song",
+	"parent": "popular song"
+	},
+	{
+	"type": "folk song-popular",
+	"parent": "popular song"
+	},
+	{
+	"type": "romance",
+	"parent": "song"
+	},
+	{
+	"type": "segedilla",
+	"parent": "song"
+	},
+	{
+	"type": "serenade",
+	"parent": "song"
+	},
+	{
+	"type": "villanesca",
+	"parent": "song"
+	},
+	{
+	"type": "villancico",
+	"parent": "song"
+	},
+	{
+	"type": "villanella",
+	"parent": "song"
+	},
+	{
+	"type": "dance",
+	"parent":null
+	},
+	{
+	"type": "regional",
+	"parent": "dance"
+	},
+	{
+	"type": "bohemian dance",
+	"parent": "regional"
+	},
+	{
+	"type": "polish dance",
+	"parent": "regional"
+	},
+	{
+	"type": "welscher tanz",
+	"parent": "regional"
+	},
+	{
+	"type": "westfaler tanz",
+	"parent": "regional"
+	},
+	{
+	"type": "veneciana tanz",
+	"parent": "regional"
+	},
+	{
+	"type": "zeuner tanz",
+	"parent": "regional"
+	},
+	{
+	"type": "ruthenian dance",
+	"parent": "regional"
+	},
+	{
+	"type": "ungaresca",
+	"parent": "regional"
+	},
+	{
+	"type": "court dance",
+	"parent": "dance"
+	},
+	{
+	"type": "almain",
+	"parent": "court dance"
+	},
+	{
+	"type": "allemande",
+	"parent": "court dance"
+	},
+	{
+	"type": "allemande amour",
+	"parent": "allemande"
+	},
+	{
+	"type": "ballet",
+	"parent": "court dance"
+	},
+	{
+	"type": "ballo",
+	"parent": "court dance"
+	},
+	{
+	"type": "balletto",
+	"parent": "court dance"
+	},
+	{
+	"type": "barriera",
+	"parent": "court dance"
+	},
+	{
+	"type": "galliard",
+	"parent": "court dance"
+	},
+	{
+	"type": "quadron galliard",
+	"parent": "galliard"
+	},
+	{
+	"type": "battle galliard-dance",
+	"parent": "galliard"
+	},
+	{
+	"type": "quadrille",
+	"parent": "court dance"
+	},
+	{
+	"type": "recoupe",
+	"parent": "court dance"
+	},
+	{
+	"type": "basse dance",
+	"parent": "court dance"
+	},
+	{
+	"type": "bourrée",
+	"parent": "court dance"
+	},
+	{
+	"type": "chaconne-dance",
+	"parent": "court dance"
+	},
+	{
+	"type": "chorea",
+	"parent": "court dance"
+	},
+	{
+	"type": "chiarenzana",
+	"parent": "court dance"
+	},
+	{
+	"type": "courante",
+	"parent": "court dance"
+	},
+	{
+	"type": "corrente",
+	"parent": "court dance"
+	},
+	{
+	"type": "coranto",
+	"parent": "court dance"
+	},
+	{
+	"type": "écossaise",
+	"parent": "court dance"
+	},
+	{
+	"type": "gavotte",
+	"parent": "court dance"
+	},
+	{
+	"type": "ghierometta",
+	"parent": "court dance"
+	},
+	{
+	"type": "gigue",
+	"parent": "court dance"
+	},
+	{
+	"type": "hoff tanz",
+	"parent": "court dance"
+	},
+	{
+	"type": "loure",
+	"parent": "court dance"
+	},
+	{
+	"type": "mariona",
+	"parent": "court dance"
+	},
+	{
+	"type": "masquerade",
+	"parent": "court dance"
+	},
+	{
+	"type": "masque dance",
+	"parent": "court dance"
+	},
+	{
+	"type": "minuet",
+	"parent": "court dance"
+	},
+	{
+	"type": "nachlauff",
+	"parent": "court dance"
+	},
+	{
+	"type": "padoana",
+	"parent": "court dance"
+	},
+	{
+	"type": "saltarello",
+	"parent": "court dance"
+	},
+	{
+	"type": "saltarello a la bolognese",
+	"parent": "saltarello"
+	},
+	{
+	"type": "saltarello antico",
+	"parent": "saltarello"
+	},
+	{
+	"type": "saltarello commun",
+	"parent": "saltarello"
+	},
+	{
+	"type": "saltarello cremonese",
+	"parent": "saltarello"
+	},
+	{
+	"type": "saltarello d'italye",
+	"parent": "saltarello"
+	},
+	{
+	"type": "saltarello milanese",
+	"parent": "saltarello"
+	},
+	{
+	"type": "saltarello moderno",
+	"parent": "saltarello"
+	},
+	{
+	"type": "saltarello novo",
+	"parent": "saltarello"
+	},
+	{
+	"type": "passacaglia",
+	"parent": "court dance"
+	},
+	{
+	"type": "passamezzo",
+	"parent": "court dance"
+	},
+	{
+	"type": "paganina",
+	"parent": "passamezzo"
+	},
+	{
+	"type": "passamezzo antico",
+	"parent": "passamezzo"
+	},
+	{
+	"type": "passamezzo moderno",
+	"parent": "passamezzo"
+	},
+	{
+	"type": "passamezzo commun",
+	"parent": "passamezzo"
+	},
+	{
+	"type": "passamezzo d'angleterre",
+	"parent": "passamezzo"
+	},
+	{
+	"type": "passamezzo novo",
+	"parent": "passamezzo"
+	},
+	{
+	"type": "passamezzo milanese",
+	"parent": "passamezzo"
+	},
+	{
+	"type": "passamezzo zorzy",
+	"parent": "passamezzo"
+	},
+	{
+	"type": "passepied",
+	"parent": "court dance"
+	},
+	{
+	"type": "pavane",
+	"parent": "court dance"
+	},
+	{
+	"type": "pavana alla ferrarese",
+	"parent": "pavane"
+	},
+	{
+	"type": "pavana alla venetiana",
+	"parent": "pavane"
+	},
+	{
+	"type": "pavane de zorzi",
+	"parent": "pavane"
+	},
+	{
+	"type": "pavane milanese",
+	"parent": "pavane"
+	},
+	{
+	"type": "pavane moderne",
+	"parent": "pavane"
+	},
+	{
+	"type": "pavane romanesque",
+	"parent": "pavane"
+	},
+	{
+	"type": "quadron pavane",
+	"parent": "pavane"
+	},
+	{
+	"type": "sharp pavane",
+	"parent": "pavane"
+	},
+	{
+	"type": "spanish pavane",
+	"parent": "pavane"
+	},
+	{
+	"type": "pavaniglia",
+	"parent": "court dance"
+	},
+	{
+	"type": "sarabande",
+	"parent": "court dance"
+	},
+	{
+	"type": "sarabande grave",
+	"parent": "sarabande"
+	},
+	{
+	"type": "spagnoletta",
+	"parent": "court dance"
+	},
+	{
+	"type": "volta",
+	"parent": "court dance"
+	},
+	{
+	"type": "waltz",
+	"parent": "court dance"
+	},
+	{
+	"type": "popular dance",
+	"parent": "dance"
+	},
+	{
+	"type": "auff und auff",
+	"parent": "popular dance"
+	},
+	{
+	"type": "bassa",
+	"parent": "popular dance"
+	},
+	{
+	"type": "jig",
+	"parent": "popular dance"
+	},
+	{
+	"type": "benzenauer",
+	"parent": "popular dance"
+	},
+	{
+	"type": "bolero",
+	"parent": "popular dance"
+	},
+	{
+	"type": "bourata",
+	"parent": "populat dance"
+	},
+	{
+	"type": "bourrasque",
+	"parent": "popular dance"
+	},
+	{
+	"type": "branle",
+	"parent": "popular dance"
+	},
+	{
+	"type": "branle commun",
+	"parent": "branle"
+	},
+	{
+	"type": "branle coupé",
+	"parent": "branle"
+	},
+	{
+	"type": "branle courant",
+	"parent": "branle"
+	},
+	{
+	"type": "branle de bourgogne",
+	"parent": "branle"
+	},
+	{
+	"type": "branle de champaigne",
+	"parent": "branle"
+	},
+	{
+	"type": "branle de guillemette",
+	"parent": "branle"
+	},
+	{
+	"type": "branle de hauberrois",
+	"parent": "branle"
+	},
+	{
+	"type": "branle de la gavotte",
+	"parent": "branle"
+	},
+	{
+	"type": "branle de la guerre",
+	"parent": "branle"
+	},
+	{
+	"type": "branle de la cornemuse",
+	"parent": "branle"
+	},
+	{
+	"type": "branle de malthe",
+	"parent": "branle"
+	},
+	{
+	"type": "branle de montirandé",
+	"parent": "branle"
+	},
+	{
+	"type": "branle de paris",
+	"parent": "branle"
+	},
+	{
+	"type": "branle de poictou",
+	"parent": "branle"
+	},
+	{
+	"type": "branle de village",
+	"parent": "branle"
+	},
+	{
+	"type": "branle double",
+	"parent": "branle"
+	},
+	{
+	"type": "branle double de poictou",
+	"parent": "branle double"
+	},
+	{
+	"type": "branle gay",
+	"parent": "branle"
+	},
+	{
+	"type": "branle nouveau",
+	"parent": "branle"
+	},
+	{
+	"type": "branle pimontoise",
+	"parent": "branle"
+	},
+	{
+	"type": "branle simple",
+	"parent": "branle"
+	},
+	{
+	"type": "burato",
+	"parent": "popular dance"
+	},
+	{
+	"type": "estampie",
+	"parent": "popular dance"
+	},
+	{
+	"type": "calata",
+	"parent": "popular dance"
+	},
+	{
+	"type": "calata zigonze",
+	"parent": "calata"
+	},
+	{
+	"type": "canarie",
+	"parent": "popular dance"
+	},
+	{
+	"type": "canella",
+	"parent": "popular dance"
+	},
+	{
+	"type": "cane dance",
+	"parent": "popular dance"
+	},
+	{
+	"type": "cascarda",
+	"parent": "popular dance"
+	},
+	{
+	"type": "contrapasso",
+	"parent": "popular dance"
+	},
+	{
+	"type": "contrapasso nuovo",
+	"parent": "contrapasso"
+	},
+	{
+	"type": "country dance",
+	"parent": "popular dance"
+	},
+	{
+	"type": "folia",
+	"parent": "popular dance"
+	},
+	{
+	"type": "folk dance",
+	"parent": "popular dance"
+	},
+	{
+	"type": "hachas",
+	"parent": "popular dance"
+	},
+	{
+	"type": "hauberrois",
+	"parent": "popular dance"
+	},
+	{
+	"type": "hornpipe",
+	"parent": "popular dance"
+	},
+	{
+	"type": "hungarian dance",
+	"parent": "popular dance"
+	},
+	{
+	"type": "hupfauff",
+	"parent": "popular dance"
+	},
+	{
+	"type": "matachin",
+	"parent": "popular dance"
+	},
+	{
+	"type": "matazina",
+	"parent": "popular dance"
+	},
+	{
+	"type": "mazurka",
+	"parent": "popular dance"
+	},
+	{
+	"type": "moresca",
+	"parent": "popular dance"
+	},
+	{
+	"type": "nachtanz",
+	"parent": "popular dance"
+	},
+	{
+	"type": "proportio",
+	"parent": "nachtanz"
+	},
+	{
+	"type": "pfeiffertanz",
+	"parent": "popular dance"
+	},
+	{
+	"type": "piva",
+	"parent": "popular dance"
+	},
+	{
+	"type": "rigaudon",
+	"parent": "popular dance"
+	},
+	{
+	"type": "ruggiero",
+	"parent": "popular dance"
+	},
+	{
+	"type": "saltus",
+	"parent": "popular dance"
+	},
+	{
+	"type": "tambourin",
+	"parent": "popular dance"
+	},
+	{
+	"type": "tanz",
+	"parent": "popular dance"
+	},
+	{
+	"type": "tanzlein",
+	"parent": "popular dance"
+	},
+	{
+	"type": "tanz und sprung",
+	"parent": "popular dance"
+	},
+	{
+	"type": "sprung",
+	"parent": "tanz und sprung"
+	},
+	{
+	"type": "tarantella",
+	"parent": "popular dance"
+	},
+	{
+	"type": "tintelore",
+	"parent": "popular dance"
+	},
+	{
+	"type": "tourdion",
+	"parent": "popular dance"
+	},
+	{
+	"type": "traditora-dance",
+	"parent": "popular dance"
+	},
+	{
+	"type": "zorzi",
+	"parent": "popular dance"
+	},
+	{
+	"type": "unknown",
+	"parent":null
+	}
+]
