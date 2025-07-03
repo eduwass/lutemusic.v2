@@ -13,8 +13,9 @@ venv/
 env/
 ENV/
 
-# IDE
-.vscode/
+# IDE - Keep tasks.json for team, ignore user-specific settings
+.vscode/launch.json
+.vscode/c_cpp_properties.json
 .idea/
 *.swp
 *.swo
