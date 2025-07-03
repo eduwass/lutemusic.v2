@@ -1,9 +1,9 @@
 """
-LuteMusic management command with subcommands.
+Download JSON files management command.
 
 Usage:
-    python manage.py lutemusic download_json_files
-    python manage.py lutemusic <subcommand> [options]
+    python manage.py download_json_files
+    python manage.py download_json_files --force
 """
 
 import os
@@ -19,43 +19,23 @@ logger = logging.getLogger(__name__)
 
 
 class Command(BaseCommand):
-    help = 'LuteMusic management command with various subcommands'
+    help = 'Download JSON files and save them to data/lutemusic/'
 
     def add_arguments(self, parser):
-        """Define subcommands and their arguments"""
-        subparsers = parser.add_subparsers(
-            dest='subcommand',
-            help='Available subcommands',
-            required=True
-        )
-        
-        # download_json_files subcommand
-        download_parser = subparsers.add_parser(
-            'download_json_files',
-            help='Download JSON files and save them to data/lutemusic/'
-        )
-        download_parser.add_argument(
+        """Define command arguments"""
+        parser.add_argument(
             '--target-dir',
             type=str,
             default='lutemusic',
             help='Target directory within project data folder (default: lutemusic)'
         )
-        download_parser.add_argument(
+        parser.add_argument(
             '--force',
             action='store_true',
             help='Overwrite existing files'
         )
 
     def handle(self, *args, **options):
-        """Route to appropriate subcommand handler"""
-        subcommand = options['subcommand']
-        
-        if subcommand == 'download_json_files':
-            return self.handle_download_json_files(**options)
-        else:
-            raise CommandError(f"Unknown subcommand: {subcommand}")
-
-    def handle_download_json_files(self, **options):
         """
         Download JSON files and save them to media directory.
         
@@ -89,7 +69,7 @@ class Command(BaseCommand):
             # Check if file exists and handle overwrite
             if target_file.exists() and not options['force']:
                 self.stdout.write(
-                    self.style.WARNING(f"File {filename} already exists. Use --force to overwrite.")
+                    self.style.NOTICE(f"File {filename} already exists. Use --force to overwrite.")
                 )
                 continue
             
@@ -107,7 +87,7 @@ class Command(BaseCommand):
                 except UnicodeDecodeError:
                     # If UTF-8 fails, try with latin-1 and convert to UTF-8
                     self.stdout.write(
-                        self.style.WARNING(f"Encoding of {filename} is not UTF-8. Converting to UTF-8.")
+                        self.style.NOTICE(f"Encoding of {filename} is not UTF-8. Converting to UTF-8.")
                     )
                     text_data = data.decode('latin-1').encode('utf-8').decode('utf-8')
                 
@@ -157,7 +137,7 @@ class Command(BaseCommand):
         
         if error_count > 0:
             self.stdout.write(
-                self.style.WARNING(f"Errors: {error_count} files failed to download")
+                self.style.NOTICE(f"Errors: {error_count} files failed to download")
             )
         
-        return f"Downloaded {success_count}/{total_files} JSON files successfully" 
+        return f"Downloaded {success_count}/{total_files} JSON files successfully"
