@@ -50,22 +50,10 @@ python manage.py test            # Run tests
 
 ## 🔧 Environment Variables Set
 
-- `DJANGO_SETTINGS_MODULE=lutemusic.settings`
+- `DJANGO_SETTINGS_MODULE=config.settings`
 - `DJANGO_DEBUG=True`
 - `PYTHONPATH` includes project root
 - `VIRTUAL_ENV` points to the venv
-
-## 📁 Project Structure
-
-```
-lutemusic.v2/
-├── .envrc              # direnv configuration
-├── docs/               # Project documentation
-├── lutemusic/          # Django project settings
-├── manage.py           # Django management script
-├── requirements.txt    # Python dependencies
-└── venv/              # Virtual environment (auto-ignored)
-```
 
 ---
 

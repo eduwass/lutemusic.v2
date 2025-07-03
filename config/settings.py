@@ -37,6 +37,10 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    
+    # Local apps
+    'core',    # Business logic, models, commands
+    'web',     # Frontend interface
 ]
 
 MIDDLEWARE = [
@@ -49,7 +53,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'lutemusic.urls'
+ROOT_URLCONF = 'web.main_urls'
 
 TEMPLATES = [
     {
@@ -67,7 +71,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'lutemusic.wsgi.application'
+WSGI_APPLICATION = 'wsgi.application'
 
 
 # Database

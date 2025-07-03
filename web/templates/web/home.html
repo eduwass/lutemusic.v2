@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title }}</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            line-height: 1.6;
+            color: #333;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        .card {
+            background: #f8f9fa;
+            border-radius: 8px;
+            padding: 20px;
+            margin: 20px 0;
+        }
+        .emoji {
+            font-size: 2em;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1 class="emoji">{{ title }}</h1>
+        <p>Django development server is running!</p>
+    </div>
+
+    <div class="card">
+        <h3>🚀 Your Django Project is Ready</h3>
+        <p>This page is served from <code>/web/views.py</code> and rendered with <code>/web/templates/web/home.html</code></p>
+        
+        <ul>
+            <li><strong>Home:</strong> <a href="/">http://127.0.0.1:8000/</a></li>
+            <li><strong>Admin:</strong> <a href="/admin/">http://127.0.0.1:8000/admin/</a></li>
+            <li><strong>Command Demo:</strong> <a href="/run-command/">http://127.0.0.1:8000/run-command/</a></li>
+        </ul>
+    </div>
+
+    <div class="card">
+        <h3>📁 Project Structure</h3>
+        <pre>
+lutemusic.v2/
+├── config/         # Project settings
+├── core/           # Business logic & commands  
+├── web/            # Frontend interface (this page!)
+└── docs/           # Documentation
+        </pre>
+    </div>
+</body>
+</html> 
